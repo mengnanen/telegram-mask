@@ -1,0 +1,9 @@
+Package: com.iosrxwy.Telegrammask
+Name: Telegrammask
+Version: 0.1-4
+Description: TG伪装计算器插件，密码为当前时间，如13:14密码为1314，00：56密码为56，24小时制为准。三指双击可自定义密码。新增level3tjg的移除界面分割线，dayanch96的系统键盘暗黑增强。
+Section: Tweaks
+Depends: firmware (>= 5.0), mobilesubstrate
+Priority: optional
+Author: iosrxwy
+Architecture: iphoneos-arm64
